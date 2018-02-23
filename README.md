@@ -16,3 +16,6 @@ propertyファイルの中身を読み込む際に利用
 
 #### 2-4.property-register.sh  
 propertyファイルの中身に書き込む際に利用
+
+#### 2-5.replace.sh  
+文字列置換＋ファイル名変更を行う際に利用
